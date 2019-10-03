@@ -18,6 +18,8 @@ public class MakeSnake {
      * @return The sssame ssstring, but with more hissing
      */
     public static String makeSnake(String input) {
+        input = input.replace("s","sss");
+        input = input.replace("S","SSS");
         return input;
     }
 

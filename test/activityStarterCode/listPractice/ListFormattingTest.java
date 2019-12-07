@@ -1,6 +1,5 @@
-package activityStarterCode.stringPractice.listPractice;
+package activityStarterCode.listPractice;
 
-import activityStarterCode.listPractice.ListFormatting;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
